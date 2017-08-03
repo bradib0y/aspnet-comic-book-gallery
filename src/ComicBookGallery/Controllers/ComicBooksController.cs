@@ -10,7 +10,7 @@ namespace ComicBookGallery.Controllers
 {
     public class ComicBooksController : Controller
 
-        // h e l l o
+        // h e l l o o
     {
         private ComicBookRepository _comicBookRepository = null;
 
